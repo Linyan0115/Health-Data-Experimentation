@@ -2,7 +2,7 @@
 
 This individual project is build on the UW-Madison Course: STAT424 Statistical Experient Design
 
-Full Report:
+[**View Final Report (PDF)**](./Final%20Report.pdf)
 
 ## Overview
 
